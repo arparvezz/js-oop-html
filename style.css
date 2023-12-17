@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+.wrapper{
+  max-width: 1200px;
+  width: 90%;
+  height: 100vh;
+  margin: 0 auto;
+  /* text-align: center; */
+  display: grid;
+  place-items: center;
+}
+code{
+  padding: 2px 5px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+}
